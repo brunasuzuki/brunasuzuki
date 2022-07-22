@@ -1,4 +1,4 @@
-# brunasuzuki
+Hello, I`m Bruna 🙂
 
 <div align="center">
   <a href="https://github.com/brunasuzuki">
