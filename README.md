@@ -1,4 +1,4 @@
-<h2>Hello, I'm Bruna!</h2>
+<h2>Hello, I'm Bruna👋</h2>
 
 
 <div align="center">
