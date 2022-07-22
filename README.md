@@ -1,10 +1,7 @@
 <h2>Hello, I'm Bruna!</h2>
 
-<p> 
-📍I'm from Sao Paulo, Brazil
-📬How to reach me: brunasuzuki12@gmail.com
-
-</p>
+<p>📍I'm from Sao Paulo, Brazil</p>
+<p>📬How to reach me: brunasuzuki12@gmail.com</p>
 
 <div align="center">
   <a href="https://github.com/brunasuzuki">
