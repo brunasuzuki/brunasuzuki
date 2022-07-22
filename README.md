@@ -1,8 +1,5 @@
 <h2>Hello, I'm Bruna!</h2>
 
-<p>📍I'm from São Paulo, Brazil</p>
-<p>📬How to reach me: brunasuzuki12@gmail.com</p>
-
 
 <div align="center">
   <a href="https://github.com/brunasuzuki">
