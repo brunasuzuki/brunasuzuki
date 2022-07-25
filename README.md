@@ -2,7 +2,7 @@
 
 <p>📍I'm based in São Paulo, Brazil</p>
 <p>📬How to reach me: <a href="mailto:brunasuzuki12@gmail.com">brunasuzuki12@gmail.com</a></p>
-<p>🖥️Former projects I worked on: <a href="https://www.zerowaste.app.br/landing">Zero Waste</a></p>
+<p>🖥️Former projects I worked on: <a href="https://www.zerowaste.app.br/landing">ZeroWaste</a> and  <a href="https://hobbyshare-brunasuzuki.herokuapp.com/"> Hobbyshare</a></p>
 
 <div align="center">
   <a href="https://github.com/brunasuzuki">
