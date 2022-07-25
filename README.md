@@ -1,7 +1,7 @@
 <h2>Hello, I'm Bruna👋</h2>
 
 <p>📍I'm based in São Paulo, Brazil</p>
-<p>🖥️Former projects I worked on: </p>
+
 
 <div align="center">
   <a href="https://github.com/brunasuzuki">
@@ -28,7 +28,7 @@
   ##
   
 <div>
-  <a href = "mailto:brunasuzuki12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:brunasuzuki12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bruna-suzuki100" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
