@@ -1,5 +1,8 @@
 <h2>Hello, I'm Bruna👋</h2>
 
+<p>📍I'm based in São Paulo, Brazil</p>
+<p>🖥️Former projects I worked on: </p>
+
 <div align="center">
   <a href="https://github.com/brunasuzuki">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunasuzuki&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
