@@ -11,7 +11,7 @@
 </div>
 
   ##
- 
+  
  <h4>Skills</h4>
  <div style="display: inline_block"><br>
   <img align="center" alt="Bruna-RUBY" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg">
