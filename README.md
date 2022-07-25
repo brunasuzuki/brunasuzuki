@@ -4,6 +4,8 @@
 <p>📬 How to reach me: <a href="mailto:brunasuzuki12@gmail.com">brunasuzuki12@gmail.com</a></p>
 <p>🖥️ Former projects I worked on: <a href="https://www.zerowaste.app.br/landing">ZeroWaste</a> and  <a href="https://hobbyshare-brunasuzuki.herokuapp.com/"> Hobbyshare</a></p>
 
+  ##
+  
 <div align="center">
   <a href="https://github.com/brunasuzuki">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunasuzuki&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
