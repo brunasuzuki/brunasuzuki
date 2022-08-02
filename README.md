@@ -1,9 +1,11 @@
 <h2>Hello, I'm Bruna👋</h2>
 
-<p>📍 I'm based in São Paulo, Brazil</p>
-<p>✨ Former projects I worked on: <a href="https://www.zerowaste.app.br/landing">ZeroWaste</a> and  <a href="https://hobbyshare-brunasuzuki.herokuapp.com/"> Hobbyshare</a></p>
-<p>💻 I'm currently learning React </p>
-<p>📬 How to reach me: <a href="mailto:brunasuzuki12@gmail.com">brunasuzuki12@gmail.com</a></p>
+<ul>
+<li><p>📍 I'm based in São Paulo, Brazil</p></li>
+<li><p>✨ Former projects I worked on: <a href="https://www.zerowaste.app.br/landing">ZeroWaste</a> and  <a href="https://hobbyshare-brunasuzuki.herokuapp.com/"> Hobbyshare</a></p></li>
+<li><p>💻 I'm currently learning React </p></li>
+<li><p>📬 How to reach me: <a href="mailto:brunasuzuki12@gmail.com">brunasuzuki12@gmail.com</a></p></li>
+</ul>
 
   ##
   
