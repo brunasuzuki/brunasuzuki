@@ -19,7 +19,7 @@
   
  <h4>Skills:</h4>
  <div style="display: inline_block"><br>  
-   <img align="center" src="https://skillicons.dev/icons?i=ruby,rails,js,html,css,sass,bootstrap,figma,heroku,git,github)(https://skillicons.dev)"> 
+   <img align="center" src="https://skillicons.dev/icons?i=ruby,rails,js,html,css,sass,bootstrap,figma,heroku,git,github (https://skillicons.dev)"> 
 </div>
   
   ##
