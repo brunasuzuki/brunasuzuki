@@ -14,7 +14,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunasuzuki&layout=compact&langs_count=7&theme=cobalt"/>
 </div> -->
 
-  ##
+<!--   ## -->
   
  <h4>Skills:</h4>
  <div style="display: inline_block"><br>  
